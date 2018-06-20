@@ -2,7 +2,7 @@
 
 ## A React / Redux project
 
-## [Demo](schr.me/izitest)
+## [Demo](https://80du3vul7k.execute-api.us-east-1.amazonaws.com/production/)
 
 ### Table of Contents
 
